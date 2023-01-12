@@ -1,2 +1,2 @@
 # odin-recipes
-Assignment
+The Odin Project assignment with the objective to create a website.
